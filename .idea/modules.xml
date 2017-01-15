@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-组合View/01-组合View.iml" filepath="$PROJECT_DIR$/01-组合View/01-组合View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-view/02-view.iml" filepath="$PROJECT_DIR$/02-view/02-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-view的绘制流程/03-view的绘制流程.iml" filepath="$PROJECT_DIR$/03-view的绘制流程/03-view的绘制流程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.画图/04.画图.iml" filepath="$PROJECT_DIR$/04.画图/04.画图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.进度条/05.进度条.iml" filepath="$PROJECT_DIR$/05.进度条/05.进度条.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.滑动开关/06.滑动开关.iml" filepath="$PROJECT_DIR$/06.滑动开关/06.滑动开关.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.ViewGroup/07.ViewGroup.iml" filepath="$PROJECT_DIR$/07.ViewGroup/07.ViewGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-交叉布局/08-交叉布局.iml" filepath="$PROJECT_DIR$/08-交叉布局/08-交叉布局.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.事件传递/09.事件传递.iml" filepath="$PROJECT_DIR$/09.事件传递/09.事件传递.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.点击事件/10.点击事件.iml" filepath="$PROJECT_DIR$/10.点击事件/10.点击事件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.ScollTo和ScollBy/11.ScollTo和ScollBy.iml" filepath="$PROJECT_DIR$/11.ScollTo和ScollBy/11.ScollTo和ScollBy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.事件冲突的处理/12.事件冲突的处理.iml" filepath="$PROJECT_DIR$/12.事件冲突的处理/12.事件冲突的处理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.滑动解锁/13.滑动解锁.iml" filepath="$PROJECT_DIR$/13.滑动解锁/13.滑动解锁.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.侧滑菜单/14.侧滑菜单.iml" filepath="$PROJECT_DIR$/14.侧滑菜单/14.侧滑菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.新闻轮播图/15.新闻轮播图.iml" filepath="$PROJECT_DIR$/15.新闻轮播图/15.新闻轮播图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16.滑动删除/16.滑动删除.iml" filepath="$PROJECT_DIR$/16.滑动删除/16.滑动删除.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.时钟/17.时钟.iml" filepath="$PROJECT_DIR$/17.时钟/17.时钟.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication2.iml" filepath="$PROJECT_DIR$/MyApplication2.iml" />
+    </modules>
+  </component>
+</project>

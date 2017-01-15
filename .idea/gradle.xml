@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\AndroidSoft\android-studio2.2.3\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01-组合View" />
+            <option value="$PROJECT_DIR$/02-view" />
+            <option value="$PROJECT_DIR$/03-view的绘制流程" />
+            <option value="$PROJECT_DIR$/04.画图" />
+            <option value="$PROJECT_DIR$/05.进度条" />
+            <option value="$PROJECT_DIR$/06.滑动开关" />
+            <option value="$PROJECT_DIR$/07.ViewGroup" />
+            <option value="$PROJECT_DIR$/08-交叉布局" />
+            <option value="$PROJECT_DIR$/09.事件传递" />
+            <option value="$PROJECT_DIR$/10.点击事件" />
+            <option value="$PROJECT_DIR$/11.ScollTo和ScollBy" />
+            <option value="$PROJECT_DIR$/12.事件冲突的处理" />
+            <option value="$PROJECT_DIR$/13.滑动解锁" />
+            <option value="$PROJECT_DIR$/14.侧滑菜单" />
+            <option value="$PROJECT_DIR$/15.新闻轮播图" />
+            <option value="$PROJECT_DIR$/16.滑动删除" />
+            <option value="$PROJECT_DIR$/17.时钟" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

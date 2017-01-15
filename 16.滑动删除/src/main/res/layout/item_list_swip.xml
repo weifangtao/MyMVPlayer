@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <tanmu.itheima.com.myapplication.MySwipView
+        android:id="@+id/mySwipView"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <TextView
+            android:gravity="center"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:text="你好"
+            android:background="#300"
+            android:id="@+id/leftText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <TextView
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:text="删除"
+            android:background="#f00"
+            android:id="@+id/button"
+            android:layout_width="80dp"
+            android:layout_height="match_parent" />
+    </tanmu.itheima.com.myapplication.MySwipView>
+</RelativeLayout>

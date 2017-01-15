@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="tanmu.itheima.com.myapplication.MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="click"
+        android:text="点击切换" />
+
+    <tanmu.itheima.com.myapplication.MyViewGroup
+        android:id="@+id/myViewGroup"
+        android:layout_width="400dp"
+        android:layout_height="400dp">
+
+        <View
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:background="#f00"></View>
+
+        <View
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:background="#ff0"></View>
+
+        <View
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:background="#0f0"></View>
+
+        <View
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:background="#00f"></View>
+    </tanmu.itheima.com.myapplication.MyViewGroup>
+</LinearLayout>
