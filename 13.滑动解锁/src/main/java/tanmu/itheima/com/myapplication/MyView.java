@@ -120,6 +120,8 @@ public class MyView extends View {
 //            invalidate();
 //            invalidate();在有些模拟器上的兼容
             ViewCompat.postInvalidateOnAnimation(this);
+
+
         }
     }
 
